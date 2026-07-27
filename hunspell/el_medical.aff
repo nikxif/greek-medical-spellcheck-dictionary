@@ -1,0 +1,7 @@
+# Greek medical terminology — supplementary dictionary
+# All inflected forms are enumerated explicitly; no affix rules are used,
+# so this file is deliberately minimal.
+SET UTF-8
+LANG el_GR
+WORDCHARS '’
+TRY ουαιετσνηρλκμπδγχθφβξψζωύίόάήέϊϋΐΰ
